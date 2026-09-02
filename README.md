@@ -13,21 +13,6 @@ A simple **console-based Tic Tac Toe game** written in Java. The game allows two
 - Allows players to restart the game
 - Uses Java's `Scanner` for user input
 
-## How to Run
-
-Make sure Java is installed on your computer.
-
-### 1. Compile the program
-
-```bash
-javac TicTacToe.java
-```
-
-### 2. Run the program
-
-```bash
-java TicTacToe
-```
 
 ## How to Play
 
@@ -39,13 +24,7 @@ java TicTacToe
 6. If all boxes are filled without a winner, the game is a draw.
 7. Choose `Y` to play again or `N` to exit.
 
-## Project Structure
 
-```text
-TicTacToe/
-├── TicTacToe.java
-└── README.md
-```
 
 ## Concepts Used
 
